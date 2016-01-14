@@ -1,0 +1,5 @@
+---
+- hosts: mysql
+  remote_user: ceednee
+  roles:
+    - mysql
